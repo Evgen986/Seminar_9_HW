@@ -1,0 +1,15 @@
+E:\УЧЕБА\C#\Seminar_9\HomeWork\task_68\obj\Debug\net6.0\task_68.csproj.AssemblyReference.cache
+E:\УЧЕБА\C#\Seminar_9\HomeWork\task_68\obj\Debug\net6.0\task_68.GeneratedMSBuildEditorConfig.editorconfig
+E:\УЧЕБА\C#\Seminar_9\HomeWork\task_68\obj\Debug\net6.0\task_68.AssemblyInfoInputs.cache
+E:\УЧЕБА\C#\Seminar_9\HomeWork\task_68\obj\Debug\net6.0\task_68.AssemblyInfo.cs
+E:\УЧЕБА\C#\Seminar_9\HomeWork\task_68\obj\Debug\net6.0\task_68.csproj.CoreCompileInputs.cache
+E:\УЧЕБА\C#\Seminar_9\HomeWork\task_68\bin\Debug\net6.0\task_68.exe
+E:\УЧЕБА\C#\Seminar_9\HomeWork\task_68\bin\Debug\net6.0\task_68.deps.json
+E:\УЧЕБА\C#\Seminar_9\HomeWork\task_68\bin\Debug\net6.0\task_68.runtimeconfig.json
+E:\УЧЕБА\C#\Seminar_9\HomeWork\task_68\bin\Debug\net6.0\task_68.dll
+E:\УЧЕБА\C#\Seminar_9\HomeWork\task_68\bin\Debug\net6.0\task_68.pdb
+E:\УЧЕБА\C#\Seminar_9\HomeWork\task_68\obj\Debug\net6.0\task_68.dll
+E:\УЧЕБА\C#\Seminar_9\HomeWork\task_68\obj\Debug\net6.0\refint\task_68.dll
+E:\УЧЕБА\C#\Seminar_9\HomeWork\task_68\obj\Debug\net6.0\task_68.pdb
+E:\УЧЕБА\C#\Seminar_9\HomeWork\task_68\obj\Debug\net6.0\task_68.genruntimeconfig.cache
+E:\УЧЕБА\C#\Seminar_9\HomeWork\task_68\obj\Debug\net6.0\ref\task_68.dll
